@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth Hiwase
 
-<!--
-**parthhiwase221/parthhiwase221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-Stack Developer | ASP.NET & C# Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building robust backend systems, user-friendly web apps, and full-stack solutions using C#, .NET, SQL Server, HTML, CSS, and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Projects I’ve Worked On
+
+### 🏥 Hospital Management System
+A full-stack web app with modules for:
+- Patient, Doctor, Admin, and Medical Inventory
+- Appointment scheduling, secure login, and dashboard
+- Image uploads, detailed reports, and role-based access
+
+### 📋 Registration & Product Forms
+- Dynamic forms with image upload support
+- Validation, responsive design, and database connectivity
+- Built using ASP.NET MVC, Bootstrap, and SQL Server
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: C#, JavaScript, HTML5, CSS3, SQL
+- **Frameworks**: ASP.NET MVC, .NET Framework
+- **Tools**: Visual Studio, SSMS, Git, GitHub
+- **Database**: Microsoft SQL Server
+
+---
+
+## 🚀 What I’m Learning Now
+
+- Advanced .NET Core
+- REST API development
+- UI/UX best practices using modern frameworks
+
+---
+
+## 📫 Let's Connect
+
+- 📧 parthhiwase0@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/parth-sunilrao-hiwase) 
+
+
+---
+
+
+
+Thanks for stopping by! Happy coding 😊
