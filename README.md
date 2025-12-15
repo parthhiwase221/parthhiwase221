@@ -24,7 +24,7 @@ A full-stack web app with modules for:
 ## 🔧 Tech Stack
 
 - **Languages**: C#, JavaScript, HTML5, CSS3, SQL
-- **Frameworks**: ASP.NET MVC, .NET Framework
+- **Frameworks**: ASP.NET core MVC, Entity Framework, Dappers, Restful APIs, React.js, Next.js. 
 - **Tools**: Visual Studio, SSMS, Git, GitHub
 - **Database**: Microsoft SQL Server
 
